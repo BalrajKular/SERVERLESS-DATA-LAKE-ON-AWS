@@ -1,5 +1,3 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Build a Serverless Data Lake on AWS
 
 **Project Link:** [View Project](https://nextwork.ai/projects/5cc28ea9-9054-4e84-8278-83cc815e9ce7)
@@ -101,5 +99,3 @@ I did this project today to learn how to build a complete serverless data lake p
 Another skill I want to learn is CI/CD pipeline automation using GitHub Actions or Jenkins to automatically build, test, and deploy data pipelines whenever code changes are pushed. I'm also interested in exploring orchestration tools like Apache Airflow for scheduling and monitoring complex ETL workflows in production environments.
 
 ---
-
-*Built with [NextWork](https://nextwork.ai) - [View this project](https://nextwork.ai/projects/5cc28ea9-9054-4e84-8278-83cc815e9ce7)*
